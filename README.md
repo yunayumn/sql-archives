@@ -14,3 +14,4 @@ The repository where I archive all my SQL files used for learning the language. 
 - [17/05/2025] SQL JOIN and COUNT DISTINCT
 - [17/05/2025] SQL subqueries learning
 - [24/05/2025] SQL subquery practice
+- [04/06/2025] SQL subqueries aggregation learning
